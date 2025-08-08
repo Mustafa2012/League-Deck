@@ -4,8 +4,7 @@
 Created On: "5/8/2025"
 
 
-
-
+<img width="939" height="586" alt="Screenshot 2025-08-08 at 5 36 42 PM" src="https://github.com/user-attachments/assets/e7f2966a-1e47-4cb7-991d-15938c48c8b6" />
 
 
 ## August 5th: Finished the schematic!
@@ -52,3 +51,11 @@ Today I locked on and completed my whole case which turned out way cooler than I
 <img width="1141" height="607" alt="Screenshot 2025-08-08 at 3 45 31 PM" src="https://github.com/user-attachments/assets/b44b2f23-b6d5-46ad-b169-f943534e637c" />
 
 **Total time spent:4 WHOPPING HOURS**
+
+## August 8th: Submitted!!!!!!
+
+I added some final touches to my case and submitted my project. I hope it gets approved. :) 
+
+<img width="726" height="450" alt="Screenshot 2025-08-08 at 5 34 43 PM" src="https://github.com/user-attachments/assets/d56f9ba3-3b5e-4648-a3a9-a569e61c4474" />
+
+**Total time spent:0.5 hr**
