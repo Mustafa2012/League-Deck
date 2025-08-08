@@ -1,4 +1,4 @@
-## Title: "League Pad"
+## Title: "League-Deck"
 ### Author: "Mustafa Ali"
 #### Description: "A cool macropad which is entirely made to play league of legends"
 Created On: "5/8/2025"
