@@ -42,3 +42,13 @@ I started by exporting the 3d model of the pcb to onshape. Then I went to the ke
 <img width="658" height="387" alt="Screenshot 2025-08-07 at 10 51 23 PM" src="https://github.com/user-attachments/assets/1b69b9f8-67cf-4f9a-852f-720a391fecd2" />
 
 **Total time spent:1.5hr**
+
+## August 8th: Completed the whole case!!!
+
+Today I locked on and completed my whole case which turned out way cooler than I expected!
+<img width="1104" height="688" alt="Screenshot 2025-08-08 at 3 45 11 PM" src="https://github.com/user-attachments/assets/9a868666-2c29-4425-9477-a9cd6248c1e0" />
+<img width="1140" height="641" alt="Screenshot 2025-08-08 at 3 45 20 PM" src="https://github.com/user-attachments/assets/b7b8d4a4-c8f6-43dd-a13c-ed5c2a4abaec" />
+
+<img width="1141" height="607" alt="Screenshot 2025-08-08 at 3 45 31 PM" src="https://github.com/user-attachments/assets/b44b2f23-b6d5-46ad-b169-f943534e637c" />
+
+**Total time spent:4 WHOPPING HOURS**
