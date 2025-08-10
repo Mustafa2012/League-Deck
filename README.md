@@ -20,11 +20,12 @@ Here are pictures of my pcb:
 
 
 ## CAD
-Designed using Onshape! Everything is glued together!
+Designed using Onshape! Everything is heldtogether by screws!
+<img width="1120" height="690" alt="Screenshot 2025-08-10 at 12 39 27 PM" src="https://github.com/user-attachments/assets/cc706f56-3fd6-458a-9824-1559adb59b55" />
+<img width="900" height="577" alt="Screenshot 2025-08-10 at 12 39 59 PM" src="https://github.com/user-attachments/assets/9f15e5ce-4217-4663-af53-8b04293e317b" />
 
-<img width="1133" height="689" alt="Screenshot 2025-08-08 at 5 28 38 PM" src="https://github.com/user-attachments/assets/e87733d1-3fa6-4ba5-a133-a30c2b994701" />
-<img width="1187" height="705" alt="Screenshot 2025-08-08 at 5 29 03 PM" src="https://github.com/user-attachments/assets/54599db8-59ab-4179-8bca-bd2e059b1df6" />
-<img width="1179" height="280" alt="Screenshot 2025-08-08 at 5 30 18 PM" src="https://github.com/user-attachments/assets/8afb9c1a-4030-4968-bdc0-1d18fa16e49b" />
+<img width="1104" height="313" alt="Screenshot 2025-08-10 at 12 40 44 PM" src="https://github.com/user-attachments/assets/292e5922-0bc9-4c5a-bfdd-5100edb8668f" />
+
 
 
 
@@ -33,6 +34,7 @@ Designed using Onshape! Everything is glued together!
 - 24x  Kalih Switches (Grounded hardware inventory)
 - 24x 1N4148 diodes (Grounded hardware inventory)
 -24x cool keycaps (Grounded hardware inventory)
+_4x 3mmx16mm screws
   
 Glue Gun ( https://www.daraz.pk//products/i458718231-s2172840379.html?spm=a2o42.cart.0.0.63fd7d68jkXXLP&urlFlag=true )
 
