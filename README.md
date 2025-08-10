@@ -36,10 +36,3 @@ Designed using Onshape! Everything is heldtogether by screws!
 -24x cool keycaps (Grounded hardware inventory)
 _4x 3mmx16mm screws
   
-Glue Gun ( https://www.daraz.pk//products/i458718231-s2172840379.html?spm=a2o42.cart.0.0.63fd7d68jkXXLP&urlFlag=true )
-
-
-Glue gun sticks ( https://www.daraz.pk//products/i262721628-s1920255486.html?spm=a2o42.cart.0.0.63fd7d685DjlPb&urlFlag=true )
-
-
-     TOTAL PRICE = $8.7
