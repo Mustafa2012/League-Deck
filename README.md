@@ -37,4 +37,4 @@ Designed using Onshape! Everything is heldtogether by screws!
 -4x 3mmx16mm screws
 -1x Mini USB Bluetooth Adapter V 5.0 Dual Mode Adapter Bluetooth Dongle and Toocki OTG USB 3.0 To Type C Adapter Micro To Type C Male To USB 2.0 Female Converter for Macbook. Total cost $4.5
   
-##Custom Stuff cost : $4.5
+## Custom Stuff cost : $4.5
